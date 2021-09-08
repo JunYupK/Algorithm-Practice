@@ -6,7 +6,6 @@
 #include <time.h>
 
 /*
-콘이 버스를 타야하는 상황
 1. 마지막 셔틀버스 <<강조
 */
 using namespace std;
