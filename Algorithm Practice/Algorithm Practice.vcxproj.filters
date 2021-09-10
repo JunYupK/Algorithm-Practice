@@ -21,11 +21,5 @@
     <ClCompile Include="추석트래픽.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="월코챌 시즌3 1번.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="월코챌 시즌3 2번.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
